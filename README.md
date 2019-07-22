@@ -1,0 +1,1 @@
+# Grove-12-bit-Magnetic-Rotary-Position-Sensor-AS5600
